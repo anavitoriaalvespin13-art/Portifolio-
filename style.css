@@ -16,7 +16,7 @@ body{
       position: fixed;
       padding: 15px;
       width: 200px;
-      min-wdth: 100%;
+      min-width: 100%;
       box-shadow: 0 1px 10px #a600ff;
 }
 .cabesalho{
